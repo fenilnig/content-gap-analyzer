@@ -1,0 +1,12 @@
+fastapi[standard]
+uvicorn[standard]
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+requests
+python-dotenv
+pydantic-settings
+videohash
+pyacoustid
+thefuzz[speedup]
+yt-dlp
